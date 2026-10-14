@@ -1,0 +1,544 @@
+[
+ {
+  "id": "ravens",
+  "collection": "Koloman Moser, 1901",
+  "title": "Die tausend Raben",
+  "english": "A Thousand Ravens",
+  "artist": "Koloman Moser (1868–1918)",
+  "source": "Die Quelle: Flächenschmuck (1901), plate 11",
+  "group": "pg",
+  "basis": [
+   1.0,
+   0.0,
+   -0.0,
+   1.003457
+  ],
+  "texture": "ravens.jpg",
+  "license": "Public domain (PD-Art, PD-old-70-1923)",
+  "holder": "Cooper Hewitt, Smithsonian Design Museum, gift of Jerrol E. Golden",
+  "url": "https://commons.wikimedia.org/wiki/File:Print,_Die_Tausend_Raben_Vorsatz_Papier_(A_Thousand_Ravens_Book_End_Paper),_plate_11,_in_Die_Quelle-_Flächen_Schmuck_(The_Source-_Ornament_for_Flat_Surfaces),_1901_(CH_18670543).jpg",
+  "museum": "https://collection.cooperhewitt.org/objects/18670543",
+  "supercell": 2,
+  "density": 862.26,
+  "scores": {
+   "a": 0.748,
+   "b": 0.708,
+   "op1": 0.603
+  },
+  "distortion": 0.0016
+ },
+ {
+  "id": "dancers",
+  "collection": "Koloman Moser, 1901",
+  "title": "Die reciproken Tänzerinnen",
+  "english": "The Reciprocal Dancers",
+  "artist": "Koloman Moser (1868–1918)",
+  "source": "Die Quelle: Flächenschmuck (1901), plate 25",
+  "group": "cm",
+  "basis": [
+   0.696626,
+   0.717435,
+   -0.696626,
+   0.717435
+  ],
+  "texture": "dancers.jpg",
+  "license": "Public domain (PD-Art, PD-old-70-1923)",
+  "holder": "Cooper Hewitt, Smithsonian Design Museum, gift of Jerrol E. Golden",
+  "url": "https://commons.wikimedia.org/wiki/File:Print,_Die_reciproken_Tänzerinnen_(Reciprocal_Dancers),_Plate_25,_in_Die_Quelle-_Flächen_Schmuck_(The_Source-_Ornament_for_Flat_Surfaces),_1901_(CH_18670531).jpg",
+  "museum": "https://collection.cooperhewitt.org/objects/18670531",
+  "supercell": 2,
+  "density": 973.84,
+  "scores": {
+   "a": 0.551,
+   "b": 0.546,
+   "op1": 0.848
+  },
+  "distortion": 0.0003
+ },
+ {
+  "id": "astarta",
+  "collection": "Koloman Moser, 1901",
+  "title": "Astarta",
+  "english": "Astarta",
+  "artist": "Koloman Moser (1868–1918)",
+  "source": "Die Quelle: Flächenschmuck (1901), plate 30",
+  "group": "cm",
+  "basis": [
+   0.707504,
+   0.70671,
+   -0.707504,
+   0.70671
+  ],
+  "texture": "astarta.jpg",
+  "license": "Public domain (PD-Art, PD-old-70-1923)",
+  "holder": "Cooper Hewitt, Smithsonian Design Museum, gift of Jerrol E. Golden",
+  "url": "https://commons.wikimedia.org/wiki/File:Print,_Tapete_Astarta_(Astarta_Wallpaper),_plate_30,_in_Die_Quelle-_Flächen_Schmuck_(The_Source-_Ornament_for_Flat_Surfaces),_1901_(CH_18670501).jpg",
+  "museum": "https://collection.cooperhewitt.org/objects/18670501",
+  "supercell": 2,
+  "density": 798.59,
+  "scores": {
+   "a": 0.756,
+   "b": 0.762,
+   "op1": 0.758
+  },
+  "distortion": 0.0072
+ },
+ {
+  "id": "arachne",
+  "collection": "Koloman Moser, 1901",
+  "title": "Arachne",
+  "english": "Arachne",
+  "artist": "Koloman Moser (1868–1918)",
+  "source": "Die Quelle: Flächenschmuck (1901), plate 18",
+  "group": "p3m1",
+  "basis": [
+   1.0,
+   0.0,
+   -0.5,
+   0.866025
+  ],
+  "texture": "arachne.jpg",
+  "license": "Public domain (PD-Art, PD-old-70-1923)",
+  "holder": "Cooper Hewitt, Smithsonian Design Museum, gift of Jerrol E. Golden",
+  "url": "https://commons.wikimedia.org/wiki/File:Print,_Mobelbezug_Arachne_(Arachne_Upholstery_Fabric),_plate_18,_in_Die_Quelle-_Flächen_Schmuck_(The_Source-_Ornament_for_Flat_Surfaces),_1901_(CH_18670493).jpg",
+  "museum": "https://collection.cooperhewitt.org/objects/18670493",
+  "supercell": 2,
+  "density": 1141.65,
+  "scores": {
+   "a": 0.672,
+   "b": 0.589,
+   "op1": 0.605,
+   "op2": 0.609,
+   "op3": 0.566,
+   "op4": 0.575,
+   "op5": 0.569
+  },
+  "distortion": 0.0046
+ },
+ {
+  "id": "jones-p1",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "p1",
+  "basis": [
+   0.0,
+   1.0,
+   -0.795745,
+   0.0
+  ],
+  "texture": "jones-p1.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_p1.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 2,
+  "density": 235.0,
+  "scores": {
+   "a": 0.587,
+   "b": 0.577
+  },
+  "distortion": 0.0
+ },
+ {
+  "id": "jones-p2",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "p2",
+  "basis": [
+   0.0,
+   1.0,
+   -1.009479,
+   0.0
+  ],
+  "texture": "jones-p2.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_p2.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 2,
+  "density": 211.0,
+  "scores": {
+   "a": 0.77,
+   "b": 0.788,
+   "op1": 0.712
+  },
+  "distortion": 0.0
+ },
+ {
+  "id": "jones-pm",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "pm",
+  "basis": [
+   0.0,
+   1.0,
+   -0.499376,
+   0.0
+  ],
+  "texture": "jones-pm.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_pm.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 3,
+  "density": 267.0,
+  "scores": {
+   "a": 0.997,
+   "b": 0.854,
+   "op1": 0.501
+  },
+  "distortion": 0.0
+ },
+ {
+  "id": "jones-pg",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "pg",
+  "basis": [
+   0.0,
+   1.0,
+   -0.246102,
+   0.0
+  ],
+  "texture": "jones-pg.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_pg.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 4,
+  "density": 449.0,
+  "scores": {
+   "a": 0.997,
+   "b": 0.304,
+   "op1": 0.586
+  },
+  "distortion": 0.0
+ },
+ {
+  "id": "jones-cm",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "cm",
+  "basis": [
+   0.669931,
+   -0.742423,
+   -0.669931,
+   -0.742423
+  ],
+  "texture": "jones-cm.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_cm.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 2,
+  "density": 200.02,
+  "scores": {
+   "a": 0.42,
+   "b": 0.416,
+   "op1": 0.624
+  },
+  "distortion": 0.0
+ },
+ {
+  "id": "jones-pmm",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "pmm",
+  "basis": [
+   0.0,
+   1.0,
+   -1.771375,
+   0.0
+  ],
+  "texture": "jones-pmm.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_pmm.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 2,
+  "density": 269.0,
+  "scores": {
+   "a": 0.996,
+   "b": 0.775,
+   "op1": 0.696,
+   "op2": 0.728,
+   "op3": 0.743
+  },
+  "distortion": 0.0
+ },
+ {
+  "id": "jones-pmg",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "pmg",
+  "basis": [
+   1.0,
+   0.0,
+   0.0,
+   -0.988848
+  ],
+  "texture": "jones-pmg.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_pmg.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 1,
+  "density": 269.0,
+  "scores": {
+   "a": 0.993,
+   "b": 1.0,
+   "op1": 0.59,
+   "op2": 0.684,
+   "op3": 0.595
+  },
+  "distortion": 0.0
+ },
+ {
+  "id": "jones-cmm",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "cmm",
+  "basis": [
+   0.368414,
+   -0.929662,
+   0.368414,
+   0.929662
+  ],
+  "texture": "jones-cmm.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_cmm.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 4,
+  "density": 246.33,
+  "scores": {
+   "a": 0.496,
+   "b": 0.497,
+   "op1": 0.515,
+   "op2": 0.586,
+   "op3": 0.696
+  },
+  "distortion": 0.0
+ },
+ {
+  "id": "jones-p4",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "p4",
+  "basis": [
+   0.0,
+   -1.0,
+   -1.0,
+   -0.0
+  ],
+  "texture": "jones-p4.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_p4.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 4,
+  "density": 151.15,
+  "scores": {
+   "a": 0.796,
+   "b": 0.802,
+   "op1": 0.696,
+   "op2": 0.72,
+   "op3": 0.723
+  },
+  "distortion": 0.0035
+ },
+ {
+  "id": "jones-p4m",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "p4m",
+  "basis": [
+   0.0,
+   -1.0,
+   -1.0,
+   -0.0
+  ],
+  "texture": "jones-p4m.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_p4m.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 2,
+  "density": 395.98,
+  "scores": {
+   "a": 0.345,
+   "b": 0.337,
+   "op1": 0.592,
+   "op2": 0.659,
+   "op3": 0.647,
+   "op4": 0.579,
+   "op5": 0.676,
+   "op6": 0.674,
+   "op7": 0.673
+  },
+  "distortion": 0.0018
+ },
+ {
+  "id": "jones-p4g",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "p4g",
+  "basis": [
+   0.0,
+   -1.0,
+   -1.0,
+   -0.0
+  ],
+  "texture": "jones-p4g.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_p4g.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 4,
+  "density": 165.65,
+  "scores": {
+   "a": 0.499,
+   "b": 0.509,
+   "op1": 0.584,
+   "op2": 0.692,
+   "op3": 0.69,
+   "op4": 0.673,
+   "op5": 0.67,
+   "op6": 0.597,
+   "op7": 0.642
+  },
+  "distortion": 0.0118
+ },
+ {
+  "id": "jones-p3",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "p3",
+  "basis": [
+   0.5,
+   -0.866025,
+   -1.0,
+   -0.0
+  ],
+  "texture": "jones-p3.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_p3.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 2,
+  "density": 122.3,
+  "scores": {
+   "a": 0.982,
+   "b": 0.998,
+   "op1": 0.916,
+   "op2": 0.921
+  },
+  "distortion": 0.0026
+ },
+ {
+  "id": "jones-p6",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "p6",
+  "basis": [
+   0.0,
+   1.0,
+   -0.866025,
+   -0.5
+  ],
+  "texture": "jones-p6.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_p6.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 4,
+  "density": 164.0,
+  "scores": {
+   "a": 0.7,
+   "b": 0.716,
+   "op1": 0.667,
+   "op2": 0.668,
+   "op3": 0.639,
+   "op4": 0.714,
+   "op5": 0.711
+  },
+  "distortion": 0.0077
+ },
+ {
+  "id": "jones-p6m",
+  "collection": "The Grammar of Ornament, 1856",
+  "title": "The Grammar of Ornament",
+  "english": "",
+  "artist": "Owen Jones (1809–1874); cell restored by Martin von Gagern",
+  "source": "Owen Jones, The Grammar of Ornament (1856), via Martin von Gagern's Symmetry Blendings",
+  "group": "p6m",
+  "basis": [
+   0.5,
+   -0.866025,
+   -1.0,
+   -0.0
+  ],
+  "texture": "jones-p6m.jpg",
+  "license": "CC BY-SA 3.0 DE, Martin von Gagern",
+  "holder": "Martin von Gagern",
+  "url": "https://commons.wikimedia.org/wiki/File:SymBlend_p6m.svg",
+  "museum": "http://digital.library.wisc.edu/1711.dl/DLDecArts.GramOrnJones",
+  "supercell": 6,
+  "density": 342.23,
+  "scores": {
+   "a": 0.682,
+   "b": 0.72,
+   "op1": 0.62,
+   "op2": 0.618,
+   "op3": 0.633,
+   "op4": 0.703,
+   "op5": 0.692,
+   "op6": 0.631,
+   "op7": 0.629,
+   "op8": 0.629,
+   "op9": 0.685,
+   "op10": 0.693,
+   "op11": 0.687
+  },
+  "distortion": 0.0123
+ }
+]
